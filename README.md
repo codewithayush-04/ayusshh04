@@ -21,14 +21,15 @@ No special setup required — just a web browser.
 
 🔥 Steps to Run Locally
 
-1️⃣ Clone the Repository
+ Clone the Repository
 git clone https://github.com/codewithayush-04/LinkConnect.git
 
-3️⃣ Open Project
+ Open Project
 Simply open:
 index.html
 
 📂 Project Structure:
+
 LinkConnect/
 │── assets/            # Images, icons, fonts
 │── css/
@@ -47,7 +48,7 @@ This project uses modern CSS practices including:
 	•	Smooth hover transitions
 	•	Clean typography and spacing
 
-	📬 Contact
-
+	
+contact📶
 👨‍💻 Developer: Ayush Gupta
 💼 GitHub: https://github.com/codewithayush-04
